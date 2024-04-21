@@ -13,7 +13,7 @@ ARG DEBIAN_FRONTEND=noninteractive
 
 LABEL org.opencontainers.image.description="Redwood Research's transformer interpretability tools (https://github.com/redwoodresearch/interp)"
 LABEL org.opencontainers.image.licenses="MIT"
-LABEL org.opencontainers.image.source https://github.com/AlexTMjugador/redwoodresearch-interp-docker
+LABEL org.opencontainers.image.source="https://github.com/AlexTMjugador/redwoodresearch-interp-docker"
 
 # BuildKit is required for this heredoc syntax:
 # https://docs.docker.com/engine/reference/builder/#here-documents
