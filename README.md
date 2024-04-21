@@ -1,5 +1,5 @@
 <div align="center">
-<img src="placeholder" alt="redwoodresearch-interp-docker logo" width="300" height="300">
+<img src="https://github.com/AlexTMjugador/redwoodresearch-interp-docker/assets/7822554/03fcbc67-9da4-418f-99d2-a79843dd676c" alt="redwoodresearch-interp-docker logo" width="300" height="300">
 <h1>redwoodresearch-interp-docker</h1>
 
 <i>Redwood Research's transformer interpretability tools, conveniently packaged
